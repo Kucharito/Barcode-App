@@ -13,7 +13,7 @@
         android:layout_width="335dp"
         android:layout_height="52dp"
         android:layout_marginTop="444dp"
-        android:hint="Zadaj čísla čiarového kódu (12 číslic)"
+        android:hint="Zadaj čísla čiarového kódu (11 číslic)"
         android:inputType="number"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.555"
